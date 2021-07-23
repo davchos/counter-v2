@@ -1,1 +1,16 @@
 /* Other rules */
+.main {
+  /* width: 70%; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  margin: 0, auto;
+}
+.counters {
+  /* width: 60%; */
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-around; */
+  margin: 10px, 10px;
+}
